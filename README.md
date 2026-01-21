@@ -1,6 +1,6 @@
 👋 Hi, I’m Jamal Ismail
 
-I’m a Cybersecurity Professional with a strong foundation in IT support, networking, and system troubleshooting. 
+I’m an Cybersecurity professional with a strong foundation in IT support, networking, and system troubleshooting. 
 My career has been built on helping end users solve technical challenges—whether through hardware and software troubleshooting, maintenance, or application support. 
 
 I’m passionate about making technology work efficiently and securely for everyone.
@@ -23,5 +23,5 @@ Some of my Packet Tracer projects include:
 
 - Troubleshooting end-to-end connectivity issues
 
-On this GitHub, you'll find some of my learning projects, labs, and tools that I’ve explored in cybersecurity and networking. I’m always learning and growing in the IT and cybersecurity fields, so stay tuned for more.
+On this GitHub, you'll find some of my learning projects, labs, and tools that I’ve explored in information technology. I’m always learning and growing in the IT and cybersecurity fields, so stay tuned for more projects and notes on what I'm currently working on.
 
